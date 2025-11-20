@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdkhan707&label=Profile%20views&color=0e75b6&style=flat" alt="mdkhan707" /> </p>
 
-👨‍💻 Flutter Developer passionate about crafting fast, clean, and scalable mobile apps
+👨‍💻 **Flutter Developer** passionate about crafting fast, clean, and scalable mobile apps
 
 🔧 Exploring the world of Backend Development to power my apps end-to-end
 
