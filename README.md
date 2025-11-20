@@ -8,7 +8,7 @@
 
 🔧 Exploring the world of Backend Development to power my apps end-to-end
 
-💡 I enjoy solving real problems, building cool projects and learning something new every day  
+💡 I enjoy solving real problems, building cool projects and   learning something new every day  
 
 💬 Always open to discussions about Flutter, UI/UX, Statemanagement, Firebase, or mobile app architecture
 
