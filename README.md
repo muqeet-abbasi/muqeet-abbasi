@@ -4,17 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdkhan707&label=Profile%20views&color=0e75b6&style=flat" alt="mdkhan707" /> </p>
 
--👨‍💻 Flutter Developer passionate about crafting fast, clean, and scalable mobile apps
+👨‍💻 Flutter Developer passionate about crafting fast, clean, and scalable mobile apps
 
--🔧 Exploring the world of Backend Development to power my apps end-to-end
+🔧 Exploring the world of Backend Development to power my apps end-to-end
 
--💡 I enjoy solving real problems, building cool projects, and learning something new every day
+💡 I enjoy solving real problems, building cool projects, and learning something new every day
 
--💬 Always open to discussions about Flutter, UI/UX, Firebase, or mobile app architecture
+💬 Always open to discussions about Flutter, UI/UX, Firebase, or mobile app architecture
 
--📩 Contact: abdulmuqeethassanabbasi@gmail.com
+📩 Contact: abdulmuqeethassanabbasi@gmail.com
 
--😄 Fun fact: I fix bugs I created… and feel proud about it.
+😄 Fun fact: I fix bugs I created… and feel proud about it.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
