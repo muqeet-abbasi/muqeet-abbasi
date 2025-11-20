@@ -10,7 +10,7 @@
 
 💡 I enjoy solving real problems, building cool projects, and learning something new every day
 
-💬 Always open to discussions about Flutter, UI/UX, Firebase, or mobile app architecture
+💬 Always open to discussions about Flutter, UI/UX, Statemanagement, Firebase, or mobile app architecture
 
 📩 Contact: abdulmuqeethassanabbasi@gmail.com
 
