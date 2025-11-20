@@ -4,15 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdkhan707&label=Profile%20views&color=0e75b6&style=flat" alt="mdkhan707" /> </p>
 
-- 🔭 I’m currently working on **Flutter**
+-👨‍💻 Flutter Developer passionate about crafting fast, clean, and scalable mobile apps
 
-- 🌱 I’m currently learning **Backend**
+-🔧 Exploring the world of Backend Development to power my apps end-to-end
 
-- 💬 Ask me anything about **Flutter**
+-💡 I enjoy solving real problems, building cool projects, and learning something new every day
 
-- 📫 How to reach me **abdulmuqeethassanabbasi@gmail.com**
+-💬 Always open to discussions about Flutter, UI/UX, Firebase, or mobile app architecture
 
-- ⚡ Fun fact **I think I am Funny**
+-📩 Contact: abdulmuqeethassanabbasi@gmail.com
+
+-😄 Fun fact: I fix bugs I created… and feel proud about it.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
